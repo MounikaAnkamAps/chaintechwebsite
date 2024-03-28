@@ -1,0 +1,292 @@
+.back_ground{
+    width: 100vw;
+    background: #060606;
+    background-size: cover;
+    padding-bottom:40px;
+    
+}
+
+.nav_item{
+    width: 1921px;
+    height: 571.56px;
+    top: 27.5px;
+    left: -0px;
+    gap: 0px;
+    border-radius: 50px 0px 0px 0px;
+    opacity: 0px;
+}
+.wel_come{
+    width: 794px;
+    height: 35px;
+    top: 231px;
+    left: 603px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 85px;
+    font-weight: 900;
+    line-height: 10.5px;
+    letter-spacing: 0.11em;
+    text-align: center;
+    color:white
+    
+
+
+
+}
+.tech_head{
+    width: 725.24px;
+    height: 34px;
+    top: 37px;
+    left: 848px;
+    gap: 0px;
+    opacity: 0px; 
+    
+}
+.grade{
+    
+    background: linear-gradient(270deg, #00FFA7 0%, #FFFF00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.page_para{
+    width: 971px;
+    height: 54px;
+    top: 441px;
+    left: 497px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27.39px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 60px;
+
+
+}
+.page_button{
+    width: 185px;
+    height: 55px;
+    top: 554.19px;
+    left: 889.29px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25.45px;
+    text-align: left;
+    background: rgba(0, 0, 0, 1);
+    background-color: white;
+    margin-bottom: 20px;
+    margin-top: 70px;
+    border-radius: 30px;
+    border-style: none;
+}
+
+.sub_card{
+    background-color: white;
+    background-size:cover;
+    margin-top:50px;
+    width: 100vw;
+    padding-bottom: 50px;
+    
+}
+.card_head{
+    width: 523px;
+    height: 70px;
+    top: 89px;
+    left: 348px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 70.7px;
+    
+    color: rgba(0, 0, 0, 1);
+    padding-top:40px;
+    margin-left:200px;
+
+
+}
+.card_para{
+    width: 1150.2px;
+    height: 33px;
+    top: 153px;
+    left: 350px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.45px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-left:200px;
+    padding-top:20px;
+
+
+}
+.card_1{
+    width: 250px;
+    height: cover;
+    border-radius: 20px ;
+    background: rgba(255, 255, 255, 1);
+    border: 3px solid rgba(0, 0, 0, 1);
+    background: rgb(171, 242, 203);
+    margin:10px;
+    
+}
+.card_1_head{
+    width: 316px;
+    height: 21px;
+    top: 19px;
+    left: -30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 21.21px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    padding:20px;
+}
+.card_sub_head{
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 600;
+    
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: center;
+
+}
+.image{
+    
+    width: 20px;
+    height: 20px;
+    
+
+    
+}
+.card_2{
+    width: 250px;
+   
+    border-radius: 20px ;
+    background: rgba(255, 255, 255, 1);
+    border: 3px solid rgba(0, 0, 0, 1);
+    background: rgb(193, 237, 240);
+    margin:10px;
+    height: cover;
+    
+   
+}
+.card_3{
+    width: 250px;
+    
+    border-radius: 20px ;
+    background: rgba(255, 255, 255, 1);
+    border: 3px solid rgba(0, 0, 0, 1);
+    background: rgb(241, 210, 210);
+    margin:10px;
+    height: cover;
+}
+.card_4{
+    width: 250px;
+    
+    border-radius: 20px ;
+    background: rgba(255, 255, 255, 1);
+    border: 3px solid rgba(0, 0, 0, 1);
+    background: rgb(192, 197, 227);
+    margin:10px;
+    height: cover;
+}
+.last_head{
+    width: 165px;
+    height: 46.26px;
+    top: 68px;
+    left: 913px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+    margin-top:70px;
+}
+.last_para{
+    width: 1122px;
+    height: 25px;
+    top: 192px;
+    
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    color: rgba(152, 166, 172, 1);
+
+
+}
+.Ex_button{
+    
+    border-radius: 20px;
+    width: 121px;
+    height: 38.55px;
+    background-color: white;
+    color:black;
+    border-color: black;
+    border-width: 2px;
+    margin: 10px;
+    margin-top: 0px;
+    text-align: left;
+    padding-left:10px;
+
+}
+.button_arrow{
+    width: 23.71px;
+    height: 23.71px;
+    top: 356.34px;
+    left: 238.66px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.grade_button{
+   
+    height: 40px;
+    width:10px;
+    border-radius: 90px;
+    background: linear-gradient(270deg, #00FFA7 0%, #FFFF00 100%);
+   
+   
+}
+.first_arrow{
+    text-align: center;
+    color:white;
+    padding-top:5px;
+}
+.grade_button_1{
+    height: 30px;
+    width:30px;
+    border-radius: 90px;
+    background: black;
+    margin-left: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 0px;
+   
+   
+}
+
+
+body{
+    font-family: "Poppins", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
